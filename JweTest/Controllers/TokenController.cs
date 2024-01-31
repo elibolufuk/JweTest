@@ -54,7 +54,7 @@ namespace JweTest.Controllers
                 {
                     { "id", "811e790749a24d8a8f766e1a44dca28a" },
                     { "name", "ufuk elibol" },
-                    { "email", "ufuk.elibol@procat.com.tr" }
+                    { "email", "ufuk.elibol@test.com" }
                 },
 
                 // private key for signing
